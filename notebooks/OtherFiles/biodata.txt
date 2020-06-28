@@ -1,0 +1,10 @@
+Genotype #0: GG
+Genotype #1: AA
+Genotype #2: AA
+Genotype #3: AG
+Genotype #4: AG
+Genotype #5: AA
+Genotype #6: GG
+Genotype #7: AG
+Genotype #8: AA
+Genotype #9: AA
